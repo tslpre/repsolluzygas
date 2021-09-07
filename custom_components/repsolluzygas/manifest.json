@@ -4,7 +4,6 @@
     "documentation": "https://github.com/bzzoiro/repsolluzygas",
     "dependencies": [],
     "codeowners": ["@bzzoiro"],
-    "requirements": ["requests"],
     "version": "0.1",
     "issue_tracker": "https://github.com/tslpre/repsolluzygas/issues",
     "iot_class": "cloud_polling"
